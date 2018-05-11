@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FirstWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="firstweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="firstweb" />
+        </element>
+      </element>
+      <element id="directory" name="Users">
+        <element id="directory" name="yqf">
+          <element id="directory" name="code">
+            <element id="directory" name="java">
+              <element id="directory" name="web" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
